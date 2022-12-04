@@ -1,0 +1,23 @@
+{
+	"development": {
+		"username": "ganeshlohar",
+		"password": null,
+		"database": "chisel_movie_db",
+		"host": "localhost",
+		"dialect": "postgres"
+	},
+	"test": {
+		"username": "ganeshlohar",
+		"password": null,
+		"database": "chisel_movie_db",
+		"host": "localhost",
+		"dialect": "postgres"
+	},
+	"production": {
+		"username": "ganeshlohar",
+		"password": null,
+		"database": "chisel_movie_db",
+		"host": "localhost",
+		"dialect": "postgres"
+	}
+}
